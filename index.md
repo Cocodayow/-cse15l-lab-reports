@@ -5,15 +5,15 @@
 **Hello**
 
 
-*This is italic*
+
 
 ---
 
 ```
-'dogs'
+*Here's a dog*
 ```
 
-* First 
+* First
 
 > following this [Link](https://piazza.com/class_profile/get_resource/l4hn5gwv6b163w/l4zxsililgt53u)
 
