@@ -10,8 +10,7 @@
 ---
 
 ```
-# code block
-print 'dogs'
+'dogs'
 ```
 
 * First 
