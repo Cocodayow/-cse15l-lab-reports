@@ -7,8 +7,6 @@
 
 *This is italic*
 
- :
-
 ---
 
 * First 
